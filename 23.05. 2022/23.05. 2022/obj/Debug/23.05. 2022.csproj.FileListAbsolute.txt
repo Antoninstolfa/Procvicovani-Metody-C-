@@ -1,0 +1,10 @@
+M:\ITB2\stolfaa.04\PRG\C Sharp\23.05. 2022\23.05. 2022\bin\Debug\23.05. 2022.exe.config
+M:\ITB2\stolfaa.04\PRG\C Sharp\23.05. 2022\23.05. 2022\bin\Debug\23.05. 2022.exe
+M:\ITB2\stolfaa.04\PRG\C Sharp\23.05. 2022\23.05. 2022\bin\Debug\23.05. 2022.pdb
+M:\ITB2\stolfaa.04\PRG\C Sharp\23.05. 2022\23.05. 2022\obj\Debug\23.05. 2022.csprojAssemblyReference.cache
+M:\ITB2\stolfaa.04\PRG\C Sharp\23.05. 2022\23.05. 2022\obj\Debug\_23._05._2022.Form1.resources
+M:\ITB2\stolfaa.04\PRG\C Sharp\23.05. 2022\23.05. 2022\obj\Debug\_23._05._2022.Properties.Resources.resources
+M:\ITB2\stolfaa.04\PRG\C Sharp\23.05. 2022\23.05. 2022\obj\Debug\23.05. 2022.csproj.GenerateResource.cache
+M:\ITB2\stolfaa.04\PRG\C Sharp\23.05. 2022\23.05. 2022\obj\Debug\23.05. 2022.csproj.CoreCompileInputs.cache
+M:\ITB2\stolfaa.04\PRG\C Sharp\23.05. 2022\23.05. 2022\obj\Debug\23.05. 2022.exe
+M:\ITB2\stolfaa.04\PRG\C Sharp\23.05. 2022\23.05. 2022\obj\Debug\23.05. 2022.pdb
